@@ -1,2 +1,2 @@
 hi Hello
-this is a small and sample text file
+this is a small and sample ttext file
